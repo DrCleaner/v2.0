@@ -1,0 +1,24 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "4mP-Vn-JZ0"; */
+"4mP-Vn-JZ0.headerCell.title" = "Kind";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "52E-dP-2sa"; */
+"52E-dP-2sa.headerCell.title" = "Size(>100M)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "BDm-r4-bK5"; */
+"BDm-r4-bK5.headerCell.title" = "Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "Chq-pj-Ead"; */
+"Chq-pj-Ead.headerCell.title" = "Date Modified";
+
+/* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "Y4z-a6-N9O"; */
+"Y4z-a6-N9O.headerCell.title" = "Folder";
+
+/* Class = "NSTextFieldCell"; title = "Total"; ObjectID = "nCO-Cq-vtH"; */
+"nCO-Cq-vtH.title" = "Total";
+
+/* Class = "NSTextFieldCell"; title = "Selected"; ObjectID = "uxx-Dy-iyY"; */
+"uxx-Dy-iyY.title" = "Selected";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "v0N-qP-BgO"; */
+"v0N-qP-BgO.title" = "Name";

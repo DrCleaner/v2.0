@@ -1,0 +1,15 @@
+/* 
+  MonitorHelper.strings
+  MyDiskCleaner
+
+  Created by user on 12/8/14.
+  Copyright (c) 2014 TrendMicro. All rights reserved.
+*/
+
+"watchdog.cleanwindow.ok" = "OK";
+"watchdog.cleanwindow.cancel" = "Cancel";
+"watchdog.cleanwindow.title" = "May I help you clean junk files?";
+"watchdog.cleanwindow.info" = "${APP_NAME} has been moved to the trash can. Dr. Cleaner detects ${JUNK_SIZE} of junk on your disk.";
+"watchdog.cleanwindow.title.cleaning" = "Cleaning ${APP_NAME} ...";
+"watchdog.cleanwindow.title.cleanDone" = "${APP_NAME} has been cleaned.";
+"watchdog.cleanwindow.title.noNeedToClean" = "${APP_NAME} has been pulled back from the trash can, so there is no need to clean it.";

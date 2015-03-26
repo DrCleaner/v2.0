@@ -1,0 +1,59 @@
+
+/* Class = "NSTextFieldCell"; title = "App Memory"; ObjectID = "1kD-GK-VfX"; */
+"1kD-GK-VfX.title" = "App Memory";
+
+/* Class = "NSMenuItem"; title = "Open Disk Clean"; ObjectID = "47d-NF-ieN"; */
+"47d-NF-ieN.title" = "Open Disk Clean";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open Disk Clean"; ObjectID = "JDh-g0-WEZ"; */
+"JDh-g0-WEZ.ibShadowedToolTip" = "Open Disk Clean";
+
+/* Class = "NSMenuItem"; title = "Optimize Memory"; ObjectID = "N5m-Sk-uXf"; */
+"N5m-Sk-uXf.title" = "Optimize Memory";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Qnv-2x-Nl2"; */
+"Qnv-2x-Nl2.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Rzz-5h-5Aw"; */
+"Rzz-5h-5Aw.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Dr. Cleaner"; ObjectID = "Smb-nq-su4"; */
+"Smb-nq-su4.title" = "Dr. Cleaner";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "YoD-Yn-qWn"; */
+"YoD-Yn-qWn.title" = "Quit";
+
+/* Class = "NSTextFieldCell"; title = "3.1 GB"; ObjectID = "cmc-cJ-1ji"; */
+"cmc-cJ-1ji.title" = "3.1 GB";
+
+/* Class = "NSTextFieldCell"; title = "Memory Available"; ObjectID = "cnx-6v-ci1"; */
+"cnx-6v-ci1.title" = "Memory Available";
+
+/* Class = "NSTextFieldCell"; title = "Details"; ObjectID = "dgL-k0-wCD"; */
+"dgL-k0-wCD.title" = "Details";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "fzt-CK-gdl"; */
+"fzt-CK-gdl.title" = "Preferences";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open Settings"; ObjectID = "iJy-uE-bJK"; */
+"iJy-uE-bJK.ibShadowedToolTip" = "Open Settings";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "kgX-tJ-jrc"; */
+"kgX-tJ-jrc.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Rate on Mac App Store"; ObjectID = "n9j-QN-MTM"; */
+"n9j-QN-MTM.title" = "Rate on Mac App Store";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "nWI-4z-FFR"; */
+"nWI-4z-FFR.title" = "About";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "sww-2d-Bmz"; */
+"sww-2d-Bmz.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Support"; ObjectID = "viy-6m-Xmt"; */
+"viy-6m-Xmt.title" = "Support";
+
+/* Class = "NSTextFieldCell"; title = "Significant Memory Usage"; ObjectID = "x6y-rM-8nx"; */
+"x6y-rM-8nx.title" = "Apps Using Significant Memory";
+
+"a0X-wW-tAe.title" = "None";

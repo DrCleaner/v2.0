@@ -1,0 +1,107 @@
+/* 
+  DiskClean.strings
+  DrCleaner
+
+  Created by David Cai on 10/9/14.
+  Copyright (c) 2014 TrendMicro. All rights reserved.
+*/
+
+"sandbox.access.title" = "Allow Access";
+"sandbox.access.message" = "%@ needs to access this path to continue. Click Allow to continue.";
+"sandbox.access.allow" = "Allow";
+
+// VoiceOver
+"voiceover.logo" = "Trend Micro Website";
+"voiceover.usageUsed" = "Used:";
+"voiceover.usageFree" = "Free:";
+"voiceover.goBack" = "Go back";
+"voiceover.scanDone" = "Scan finished";
+"voiceover.cleanDone" = "Clean finished";
+"voiceover.cleanDoneContent" = "%@ garbage files have been cleaned!";
+"voiceover.cleanDoneSuggestion" = "To optimize memory, please click the memory optimization icon on the Dr. Cleaner system menu bar.";
+
+"common.sub.congratulations" = "Your disk has been cleaned.";
+"common.sub.cleaned" = "of garbage files have been cleaned!";
+"common.congratulations" = "Congratulations!";
+"common.finish" = "Finish";
+"common.used" = "Garbage";
+"common.clean" = "Clean";
+"common.cleaning" = "Cleanning";
+"common.delete" = "Permanently Delete";
+"common.scan" = "Scan";
+"common.scanJunk" = "Find Junk";
+"common.scanBigFile" = "Find Big Files";
+"common.scaning" = "Scanning";
+"common.yes" = "Yes";
+"common.no" = "No";
+"common.proceed" = "Proceed";
+"common.disk" = "Clean Disk";
+
+"HomeFolderStageView.alertTitle" = "Disk clean does not support \"root\" user. Please switch to normal user.";
+"HomeFolderStageView.alertButton" = "OK";
+
+"toScanStageView.alertTitle" = "Cannot access your home folder due to unknown errors. Please contact support.\nhttp://appletuner.trendmicro.com/support";
+"toScanStageView.alertButton" = "OK";
+
+"toScanStageView.titleLabel" = "Disk Usage";
+"toScanStageView.detailLabel" = "Last cleaned: %@";
+
+"toCleanStageView.titleLabelSizeToClean" = "Total garbage";
+"toCleanStageView.detailLabelSizeToClean" = "will be safely cleaned";
+"toCleanStageView.dialogTitleConfirmClean" = "Are you sure you want to permanently delete \"%@\"?";
+"toCleanStageView.dialogContentConfirmClean" = "If you click \"Yes\", files will be permanently deleted and unrecoverable";
+"toCleanStageView.detailTableTitleLabel" = "Details";
+"toCleanStageView.detailTableDetailLabelView" = "View";
+"toCleanStageView.detailTableDetailLabelDetails" = "Details";
+"toCleanLargeFilesStageView.dialogTitleConfirmClean" = "Are you sure you want to permanently delete the selected files?";
+"toCleanLargeFilesStageView.dialogContentConfirmClean" = "If you click \"Yes\", files will be permanently deleted and unrecoverable";
+
+"CleanDoneStageView.rescan" = "Home";
+"CleanDoneStageView.quit" = "Quit";
+
+"CleanDoneStageView.noJunkSharingFirst" = "Just scanned my Mac with #DrCleaner. Confirmed no junk files found on the disk. Want to try? Check it out here:  https://bit.ly/DrCleaner";
+"CleanDoneStageView.noJunkSharingSecond" = "Just scanned my Mac with #DrCleaner. Confirmed no junk files found on the disk. Want to try? Check it out here:  https://bit.ly/DrCleaner";
+"CleanDoneStageView.junkSharingFirst" = "I just used #DrCleaner to speed up my Mac and saved %@ of disk space. Want to try? Check it out here:  https://bit.ly/DrCleaner";
+"CleanDoneStageView.junkSharingSecond" = "I just used #DrCleaner to speed up my Mac and saved %@ of disk space. Want to try? Check it out here:  https://bit.ly/DrCleaner";
+"CleanDoneStageView.junkLessThanOneHundredSharingFirst" = "Just scanned my Mac with #DrCleaner. Almost no junk files here！ Want to try? Check it out here:  https://bit.ly/DrCleaner";
+"CleanDoneStageView.junkLessThanOneHundredSharingSecond" = "Just scanned my Mac with #DrCleaner. Almost no junk files here！ Want to try? Check it out here:  https://bit.ly/DrCleaner";
+
+
+"CleanDoneStageView.noBigFileSharingFirst" = "No big junk files on my Mac! Use #DrCleaner to quickly and easily scan your Mac. Check it out:https://bit.ly/DrCleaner";
+"CleanDoneStageView.noBigFileSharingSecond" = "No big junk files on my Mac! Use #DrCleaner to quickly and easily scan your Mac. Check it out:https://bit.ly/DrCleaner";
+"CleanDoneStageView.bigFileSharingFirst" = "Dr. Cleaner helped me delete so many big junk files!  Use #DrCleaner to scan your Mac. Check it out:https://bit.ly/DrCleaner";
+"CleanDoneStageView.bigFileSharingSecond" = "Dr. Cleaner helped me delete so many big junk files!  Use #DrCleaner to scan your Mac. Check it out:https://bit.ly/DrCleaner";
+
+"junk.categoryName.cache" = "Application Caches";
+"junk.categoryName.logs" = "Application Logs";
+"junk.categoryName.trash" = "Trash Can";
+"junk.categoryName.downloads" = "Downloads";
+"junk.categoryName.email" = "Mail Caches";
+"junk.categoryName.Itunes" = "iTunes Temporary Files";
+"junk.categoryName.browser" = "Browser Caches";
+
+"junk.categoryName.browser.firefox" = "Firefox";
+"junk.categoryName.browser.chrome" = "Chrome";
+"junk.categoryName.browser.safari" = "Safari";
+
+"junk.categoryName.largeFiles" = "Big File";
+
+// details window
+"junk.detailsWindow.trash.title" = "Trash Data";
+"junk.detailsWindow.trash.info" = "Select the data to clean";
+"junk.detailsWindow.downloads.title" = "Downloads Data";
+"junk.detailsWindow.downloads.info" = "Select the data to clean";
+"junk.detailsWindow.browsers.title" = "Browsers Data";
+"junk.detailsWindow.browsers.info" = "Select the data to clean";
+"junk.detailsWindow.cache.info" = "Select the data to clean";
+"junk.detailsWindow.unselect" = "Unselect";
+"junk.detailsWindow.selectall" = "Select All";
+
+// tooltip of junk
+"junk.tooltip.cache" = "Caches speed up the performance of some apps. Some apps do not delete their caches and temporary files after use. This can take up large amounts of disk space unless they are deleted.";
+"junk.tooltip.logs" = "Some apps create log files that may take up a lot of disk space. Deleting these log files can free up disk space.";
+"junk.tooltip.trash" = "Files temporarily deleted will be put in the trash can where it still occupies disk space. By emptying the trash can, files are permanently removed from the disk so it can save disk space. Check the file list before you empty the trash can.";
+"junk.tooltip.downloads" = "Files in the Downloads folder can occupy a lot of disk space. Most of these files are no longer needed after you have used them. Review the file list to decide which files you want to remove.";
+"junk.tooltip.email" = "Email attachments are temporarily saved to the disk when you open and view them using a Mail app. Deleting mail caches will not impact original email messages or email attachments.";
+"junk.tooltip.Itunes" = "You can use iTunes to upgrade your personal iPhone or iPad and install apps. This generates a lot of temporary cache files that you don’t need.  Deleting these files can free up disk space. This will not delete any music, photos, or other personal documents.";
+"junk.tooltip.browser" = "Your Web browser stores web content on the local disk when you view web pages. This content is no longer needed after you close the browser.";

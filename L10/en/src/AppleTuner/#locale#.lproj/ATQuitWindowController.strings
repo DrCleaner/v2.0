@@ -1,0 +1,24 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "The Memory Optimiser is a small menu bar icon which lets you to optimise your memory usage even when Dr. Cleaner isn’t running. We recommend that you leave it running even after you quit Dr. Cleaner. These setting can be changed at any time in Dr. Cleaner’s preferences."; ObjectID = "Sbb-Ig-fQJ"; */
+"Sbb-Ig-fQJ.title" = "The Memory Optimizer is a small menu bar icon that lets you monitor your memory usage even when Disk Clean is not running. We recommend that you leave it running even after you quit Disk Clean.";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to keep the Dr. Cleaner - Memory Optimiser running?"; ObjectID = "cvD-nF-r9i"; */
+"cvD-nF-r9i.title" = "Would you like to keep Dr. Cleaner Memory Optimizer running?";
+
+/* Class = "NSButtonCell"; title = "Keep Memory Optimiser running in the background when I quit Dr. Cleaner"; ObjectID = "dPm-vu-XeA"; */
+"dPm-vu-XeA.title" = "Keep Memory Optimizer running in the background when I quit Disk Clean.";
+
+/* Class = "NSButtonCell"; title = "Always confirm when quitting Dr. Cleaner."; ObjectID = "9IN-Eg-h1D"; */
+"9IN-Eg-h1D.title" = "Always confirm when I quit Disk Clean.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lBP-yH-ghE"; */
+"lBP-yH-ghE.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Start the Memory Optimiser when I log in to my computer"; ObjectID = "uDD-jJ-jG5"; */
+"uDD-jJ-jG5.title" = "Start the Memory Optimizer when I log in to my computer.";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "wtq-IW-LLr"; */
+"wtq-IW-LLr.title" = "Quit";

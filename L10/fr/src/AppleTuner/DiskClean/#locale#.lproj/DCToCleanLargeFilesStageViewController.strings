@@ -1,0 +1,60 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1ar-1h-aga"; */
+"1ar-1h-aga.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "999.99 GB"; ObjectID = "1eR-Le-l5c"; */
+"1eR-Le-l5c.title" = "999.99 GB";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "4mP-Vn-JZ0"; */
+"4mP-Vn-JZ0.headerCell.title" = "Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "52E-dP-2sa"; */
+"52E-dP-2sa.headerCell.title" = "Taille(>100M)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7dX-VS-AhH"; */
+"7dX-VS-AhH.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "BDm-r4-bK5"; */
+"BDm-r4-bK5.headerCell.title" = "Nom";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "Chq-pj-Ead"; */
+"Chq-pj-Ead.headerCell.title" = "Date de modification";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DPw-fM-XEh"; */
+"DPw-fM-XEh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "999.99 GB"; ObjectID = "JfW-nu-Li2"; */
+"JfW-nu-Li2.title" = "999.99 GB";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OmS-8Q-YDo"; */
+"OmS-8Q-YDo.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "/"; ObjectID = "P4H-0P-LX8"; */
+"P4H-0P-LX8.title" = "/";
+
+/* Class = "NSTextFieldCell"; title = "~/Downloads/XXX"; ObjectID = "XPC-ML-sjl"; */
+"XPC-ML-sjl.title" = "~/Downloads/XXX";
+
+/* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "Y4z-a6-N9O"; */
+"Y4z-a6-N9O.headerCell.title" = "Dossier";
+
+/* Class = "NSTextFieldCell"; title = "9999.99 MB"; ObjectID = "Yg6-0e-LJz"; */
+"Yg6-0e-LJz.title" = "9999.99 MB";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cIm-6v-GcB"; */
+"cIm-6v-GcB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Total"; ObjectID = "nCO-Cq-vtH"; */
+"nCO-Cq-vtH.title" = "Total";
+
+/* Class = "NSTextFieldCell"; title = "Selected"; ObjectID = "uxx-Dy-iyY"; */
+"uxx-Dy-iyY.title" = "Sélectionné";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "v0N-qP-BgO"; */
+"v0N-qP-BgO.title" = "Nom";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wHj-54-s2L"; */
+"wHj-54-s2L.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Oct 27, 2014, 16:40 PM"; ObjectID = "xze-2q-sIw"; */
+"xze-2q-sIw.title" = "Oct 27, 2014, 16:40 PM";

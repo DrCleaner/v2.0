@@ -1,0 +1,39 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "Syc-Ei-tKx"; */
+"Syc-Ei-tKx.headerCell.title" = "Date Modified";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "1s8-V3-vga"; */
+"1s8-V3-vga.headerCell.title" = "Size";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8Wp-D9-4rV"; */
+"8Wp-D9-4rV.title" = "Cancel";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "J09-aK-o84"; */
+"J09-aK-o84.headerCell.title" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Select the data to clean"; ObjectID = "S7e-7H-wcN"; */
+"S7e-7H-wcN.title" = "Select the data to clean";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "akL-Is-JaD"; */
+"akL-Is-JaD.title" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "1000.99 MB"; ObjectID = "b0S-SV-jvY"; */
+"b0S-SV-jvY.title" = "1000.99 MB";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eyQ-LI-NbX"; */
+"eyQ-LI-NbX.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Data"; ObjectID = "lfu-vm-vEO"; */
+"lfu-vm-vEO.title" = "Data";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "reo-si-A5L"; */
+"reo-si-A5L.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xKq-To-SHx"; */
+"xKq-To-SHx.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "ydn-n7-X2B"; */
+"ydn-n7-X2B.title" = "OK";

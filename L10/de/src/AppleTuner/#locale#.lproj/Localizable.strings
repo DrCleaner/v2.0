@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  DrCleaner
+
+  Created by David Cai on 10/9/14.
+  Copyright (c) 2014 TrendMicro. All rights reserved.
+*/
+
+"common.today" = "today";
+
+"about.versionLabel" = "Version: %@ (%@)";
+
+"menu.about" = "About %@";
+"menu.hide" = "Hide %@";
+"menu.quit" = "Quit %@";
+
+// schedule scan notification
+"notification.largeJunk" = "You have more than %@ of junk files in your Mac.";
+"notification.longInterval" = "You have not cleaned your Mac for more than %ld days.";
+
+// smart memory clean notification
+"usernotification.title" = "Auto Memory Optimization";
+"usernotification.subtitle" = "Dr. Cleaner reclaimed %@ of memory originally used by %@.";
+"usernotification.ButtonTitle" = "Close";
+
+// Language Setting
+"language.ChangeAlert.Title" = "Language Setting has changed. Please reopen Dr. Cleaner to activate the change.";
+"language.ChangeAlert.SubTitle" = "";
+"language.ChangeAlert.ButtonTitle" = "OK";
+
+// Rate Notification
+"rate.notification.okButton" = "Rate";
+"rate.notification.cancelButton" = "Cancel";

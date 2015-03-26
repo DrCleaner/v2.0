@@ -1,0 +1,17 @@
+
+/* Class = "NSWindow"; title = "Rate Me"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Rate Me";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to rate this version of Dr. Cleaner?"; ObjectID = "Gwp-Es-5GX"; */
+"Gwp-Es-5GX.title" = "Would you like to rate this version of Dr. Cleaner?";
+
+/* Class = "NSButtonCell"; title = "No, Thanks"; ObjectID = "Hjw-h0-dcj"; */
+"Hjw-h0-dcj.title" = "No, Thanks";
+
+/* Class = "NSTextFieldCell"; title = "If you enjoy using Dr. Cleaner  would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!"; ObjectID = "Jc4-NN-jSL"; */
+"Jc4-NN-jSL.title" = "If you enjoy using Dr. Cleaner, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+
+
+
+/* Class = "NSButtonCell"; title = "Rate Dr. Cleaner"; ObjectID = "pRP-rt-dEu"; */
+"pRP-rt-dEu.title" = "Rate Dr. Cleaner";
