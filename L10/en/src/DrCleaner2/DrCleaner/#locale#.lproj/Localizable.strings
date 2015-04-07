@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  DrCleaner2
+
+  Created by itis on 4/2/15.
+  Copyright (c) 2015 trendmicro. All rights reserved.
+*/
+
+
+//Auto start notifcation
+"autostart.notification.title" = "Auto-start Dr. Cleaner at login";
+"autostart.notification.content.memory" = "Running Dr. Cleaner auto-optimizes system's  memory.";
+"autostart.notification.content.app" = "Running Dr. Cleaner deeply removes junk from uninstalled Apps.";
+"autostart.notification.content.disk" = "Running Dr. Cleaner removes junk files from disk.";
+"autostart.notification.confirm.button" = "Confirm";
+"autostart.notification.later.button" = "Later";
+"autostart.notification.later.button0" = "Remind Me Later";
+"autostart.notification.later.button1" = "Don't Remind Me";

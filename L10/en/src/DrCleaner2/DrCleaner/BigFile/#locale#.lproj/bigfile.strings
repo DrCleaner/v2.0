@@ -1,0 +1,58 @@
+/* 
+  bigfile.strings
+  DrCleaner2
+
+  Created by itis on 3/30/15.
+  Copyright (c) 2015 trendmicro. All rights reserved.
+*/
+
+/* 2.15GB files %@ */
+"bigfileresult.label" = "%@ files";
+
+/* have been removed to trash */
+"bigfileremove.sublabel" = "have been removed to trash";
+
+/* have been deleted permanently */
+"bigfiledelete.sublabel" = "have been deleted permanently";
+
+/* Deleting... */
+"bigfiledeleting.label" = "Deleting...";
+
+/* Done */
+"bigfilefinished.label" = "Done";
+
+/* Removing... */
+"bigfileremoving.label" = "Removing...";
+
+/* If you click \"Yes\", files will be permanently deleted and unrecoverable */
+"deletealert.information" = "If you click \"Yes\", files will be permanently deleted and unrecoverable";
+
+/* Are you sure you want to permanently delete the selected files? */
+"deletealert.message" = "Are you sure you want to permanently delete the selected files?";
+
+/* No */
+"deletealert.no" = "No";
+
+/* Yes */
+"deletealert.yes" = "Yes";
+
+/* Permanently Delete */
+"deletebutton.title" = "Permanently Delete";
+
+/* Remove To Trash */
+"removebutton.title" = "Remove To Trash";
+
+/* Selected %@ files, free %@ size */
+"selected.label" = "Selected %@ files, free %@ size";
+
+/* Date */
+"sortmenu.date" = "Date";
+
+/* Kind */
+"sortmenu.kind" = "Kind";
+
+/* Name */
+"sortmenu.name" = "Name";
+
+/* Size */
+"sortmenu.size" = "Size";

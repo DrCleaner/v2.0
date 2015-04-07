@@ -1,0 +1,18 @@
+
+/* Class = "NSTextFieldCell"; title = "Memory Usage"; ObjectID = "Ixk-sl-bhF"; */
+"Ixk-sl-bhF.title" = "Memory Usage";
+
+/* Class = "NSButtonCell"; title = "88"; ObjectID = "JNz-Tx-4ub"; */
+"JNz-Tx-4ub.title" = "88";
+
+/* Class = "NSButtonCell"; title = "%"; ObjectID = "OmW-xs-nPm"; */
+"OmW-xs-nPm.title" = "%";
+
+/* Class = "NSTextFieldCell"; title = "Apps using significant memory"; ObjectID = "RLm-XL-CX2"; */
+"RLm-XL-CX2.title" = "Apps using significant memory";
+
+/* Class = "NSTextFieldCell"; title = "Memory"; ObjectID = "eQP-e5-rHw"; */
+"eQP-e5-rHw.title" = "Memory";
+
+/* Class = "NSButtonCell"; title = "GB"; ObjectID = "vL1-V0-fhX"; */
+"vL1-V0-fhX.title" = "GB";

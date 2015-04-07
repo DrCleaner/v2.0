@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  DrCleaner2
+
+  Created by itis on 3/10/15.
+  Copyright (c) 2015 trendmicro. All rights reserved.
+*/
+
+
+"CFBundleName" = "Dr. Cleaner";

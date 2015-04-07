@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "Always confirm when I quit Advanced Disk Optimize Window."; ObjectID = "9IN-Eg-h1D"; */
+"9IN-Eg-h1D.title" = "Always confirm when I quit Deep Disk Clean Window.";
+
+/* Class = "NSTextFieldCell"; title = "Dr. Cleaner Helper is a small menu bar icon that lets you monitor your memory and disk usage. We recommend that you leave it running even after you quit Advanced Disk Optimize Window."; ObjectID = "Sbb-Ig-fQJ"; */
+"Sbb-Ig-fQJ.title" = "Dr. Cleaner Helper is a small menu bar icon that lets you monitor your memory and disk usage. We recommend that you leave it running even after you quit Advanced Disk Optimize Window.";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to keep Dr. Cleaner Helper running?"; ObjectID = "cvD-nF-r9i"; */
+"cvD-nF-r9i.title" = "Would you like to keep Dr. Cleaner Helper running?";
+
+/* Class = "NSButtonCell"; title = "Keep the Helper running in the background when I quit Advanced Disk Optimize Window."; ObjectID = "dPm-vu-XeA"; */
+"dPm-vu-XeA.title" = "Keep the Helper running in the background when I quit Advanced Disk Optimize Window.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lBP-yH-ghE"; */
+"lBP-yH-ghE.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "!Start the Memory Optimizer when I log in to my computer."; ObjectID = "uDD-jJ-jG5"; */
+"uDD-jJ-jG5.title" = "!Start the Memory Optimizer when I log in to my computer.";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "wtq-IW-LLr"; */
+"wtq-IW-LLr.title" = "Quit";
